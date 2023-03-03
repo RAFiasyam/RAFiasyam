@@ -76,5 +76,5 @@
 ---
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/e5/aa/24/e5aa2451fd295761bba0d0cd79e78b9d.gif" width="200"/>
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
-:gift: Thanks For Visiting
