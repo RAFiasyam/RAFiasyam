@@ -1,3 +1,5 @@
+# Santai<img src="https://i.pinimg.com/originals/e5/aa/24/e5aa2451fd295761bba0d0cd79e78b9d.gif" width="50"/>
+
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="200"/>
 </div>
@@ -15,8 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-<div id="salam" align="center">
-  <h2>Hello 👋</h2> 
+
+<div id="salam" align="center" display="flex" flex-decoration="flex-row">
+  <h2>Hello 👻</h2> 
 </div>
 
 <div id="About">
