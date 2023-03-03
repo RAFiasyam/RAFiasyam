@@ -1,5 +1,3 @@
-# Santai<img src="https://i.pinimg.com/originals/e5/aa/24/e5aa2451fd295761bba0d0cd79e78b9d.gif" width="50"/>
-
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="200"/>
 </div>
@@ -28,7 +26,7 @@
 
   - :seedling: Learn making application with Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="15" height="15" >&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="Android" width="15" height="15" >&nbsp; .
 
-  - :zap: In my free time, I make a ui design.
+  - :zap: Learn something well.
 
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-asyam-9956b1229/)
 </div>
@@ -76,5 +74,7 @@
 ![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/e5/aa/24/e5aa2451fd295761bba0d0cd79e78b9d.gif" width="200"/>
+</div>
 :gift: Thanks For Visiting
