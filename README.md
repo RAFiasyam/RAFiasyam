@@ -64,7 +64,7 @@
 <div id="herokuapp">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=RAFiasyam&theme=dark&background=000000](https://git.io/streak-stats)">
   <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFiasyam&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="165px">
-  <img src="https://cdna.artstation.com/p/assets/images/images/052/665/980/original/renan-capple2.gif?1660361497" width="200"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/052/665/980/original/renan-capple2.gif?1660361497" width="150"/>
 </div>
 
 ![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
