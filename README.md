@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="200"/>
+  <img src="https://bestanimations.com/media/computers/46611517funny-computer-animated-gif-29.gif" width="200"/>
 </div>
 
 <div id="soscial-media" align="center">
