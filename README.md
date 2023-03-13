@@ -70,5 +70,5 @@
 
 ---
 <div id="header" align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5707f891c6fc088ec4f2272e/1516210758085-3TCGZLWBH37JVCUCZTRR/nfn-gif-03.gif" width="700"/>
+  <img src="https://media3.giphy.com/media/vv7s9gH0yH0c5xGgrK/200w.gif?cid=6c09b952iawt57oqv1mg4avj4ad0ihi999dvho3eyaoj6ar7&rid=200w.gif&ct=s" width="200"/>
 </div>
