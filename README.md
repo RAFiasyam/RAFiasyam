@@ -70,6 +70,5 @@
 
 ---
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e5/aa/24/e5aa2451fd295761bba0d0cd79e78b9d.gif" width="200"/>
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <img src="https://images.squarespace-cdn.com/content/v1/5707f891c6fc088ec4f2272e/1516210758085-3TCGZLWBH37JVCUCZTRR/nfn-gif-03.gif" width="700"/>
 </div>
