@@ -17,14 +17,15 @@
 
 
 <div id="salam" align="center" display="flex" flex-decoration="flex-row">
-  <h2>Hello 👻</h2> 
+  <h2>Hello </h2> 
+  <p>A programmer who does not only write code, but also writes solutions.</p>
 </div>
 
 <div id="About">
   :man_technologist: About Me :
-  - :telescope: Hello, I am a student at IDN Boarding School (Solo), I am majoring in Software Engineer.
+  - ✍️: Hello, I am a student at IDN Boarding School (Solo), I am majoring in Software Engineer.
 
-  - :seedling: Learn making application with Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="15" height="15" >&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="Android" width="15" height="15" >&nbsp; .
+  - 🐤 Newbie.
 
   - :zap: Learn something well.
 
@@ -38,6 +39,8 @@
 </div>
 
 <div id="tools-icon">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title"Laravel" alt"Laravel" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="Android" width="40" height="40" >&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40" >&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40" >&nbsp;
@@ -61,14 +64,9 @@
   <br>
 </div>
 
-<div id="herokuapp">
+<div id="herokuapp" align="y-center">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=RAFiasyam&theme=dark&background=000000](https://git.io/streak-stats)">
   <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFiasyam&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="165px">
 </div>
 
 ![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
-
----
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/vv7s9gH0yH0c5xGgrK/200w.gif?cid=6c09b952iawt57oqv1mg4avj4ad0ihi999dvho3eyaoj6ar7&rid=200w.gif&ct=s" width="200"/>
-</div>
