@@ -69,4 +69,8 @@
   <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFiasyam&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="165px">
 </div>
 
+<div align="center">
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" height="165px">
+</div>
+
 ![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
