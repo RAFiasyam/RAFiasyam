@@ -72,5 +72,3 @@
 <div align="center">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" height="165px">
 </div>
-
-![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
