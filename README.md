@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/c8/67/f1/c867f18c304b53b3638c542e44cf0728.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/f2/e4/7a/f2e47ae9f6f1260b8e8192ea8f4c466a.gif" width="200"/>
 </div>
 
 <div id="soscial-media" align="center">
@@ -70,5 +70,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" height="165px">
+  <img src="https://i.pinimg.com/originals/81/6b/f0/816bf03234d66f330997c0283d03f518.gif" height="165px">
+  <img src="https://i.pinimg.com/originals/d4/cd/f3/d4cdf31724cdc74aa5dbd2169fbdd4b6.gif" height="165px">
 </div>
