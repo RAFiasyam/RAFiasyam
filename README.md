@@ -23,11 +23,11 @@
 
 <div id="About">
   :man_technologist: About Me :
-  - ✍️: Hello, I am a student at IDN Boarding School (Solo), I am majoring in Software Engineer.
+  - ✍️: Kwuik, I'm a Software Engineer.
 
   - 🐤 Newbie.
 
-  - :zap: Learn something well.
+  - :zap: Learn something well/bad.
 
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-asyam-9956b1229/)
 </div>
