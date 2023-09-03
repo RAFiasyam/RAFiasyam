@@ -17,17 +17,17 @@
 
 
 <div id="salam" align="center" display="flex" flex-decoration="flex-row">
-  <h2>Hello </h2> 
+  <h2>Welcome </h2> 
   <p>A programmer who does not only write code, but also writes solutions.</p>
 </div>
 
 <div id="About">
   :man_technologist: About Me :
-  - ✍️: Kwuik, I'm a Software Engineer.
+  - ✍: Kwuik, I'm a Software Engineer.
 
-  - 🐤 Newbie.
+  - ⚒️ Working.
 
-  - :zap: Learn something well/bad.
+  - :zap: Gogogo.
 
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-asyam-9956b1229/)
 </div>
@@ -54,6 +54,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="InkScape" alt="InkScape" width="40" height="40" >&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" >&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" >&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" >&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="40" height="40" >&nbsp;
   <br>
   <br>
 </div>
