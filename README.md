@@ -33,29 +33,43 @@
 </div>
 
 <div id="tools">
-  :hammer_and_wrench: Languages and Tools :
+  :wrench: Languages :
   <br>
   <br>
 </div>
 
 <div id="tools-icon">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title"Laravel" alt"Laravel" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="Android" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="InkScape" alt="InkScape" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" >&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" title"Laravel" alt"Laravel" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="PHP" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" title="React" alt="React" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" title="Vite" alt="Vite" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" title="Ts" alt="Ts" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" title="Sass" alt="Sass" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg" title="MUI" alt="MUI" width="40" height="40" >&nbsp;
+  <br>
+  <br>
+</div>
+
+<div id="tools">
+  :hammer: Tools :
+  <br>
+  <br>
+</div>
+
+<div id="tools-icon">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width="40" height="40" >&nbsp;
   <br>
   <br>
 </div>
@@ -67,7 +81,8 @@
 </div>
 
 <div id="herokuapp" align="y-center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=RAFiasyam&theme=dark&background=000000](https://git.io/streak-stats)">
+  
+  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=ocean-gradient&border_radius=20&locale=ja&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
   <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFiasyam&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="165px">
 </div>
 
