@@ -3,11 +3,11 @@
 </div>
 
 <div id="soscial-media" align="center">
-  <a href="https://www.linkedin.com/in/rafi-asyam-9956b1229/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=20" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&border_radius=20" alt="Youtube Badge"/>
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 
   - :zap: Gogogo.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-asyam-9956b1229/)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-asyam-a5bb98289/)
 </div>
 
 <div id="tools">
