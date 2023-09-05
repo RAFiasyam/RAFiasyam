@@ -25,7 +25,7 @@
   :man_technologist: About Me :
   - ✍: Kwuik, I'm a Software Engineer.
 
-  - ⚒️ Working.
+  - 💪 Working.
 
   - :zap: Gogogo.
 
