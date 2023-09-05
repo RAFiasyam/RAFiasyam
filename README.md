@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/47/06/54/4706546dce413bc76667755b56b6795a.gif" width="200"/>
+  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=ocean-gradient&border_radius=20&locale=ja&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
 </div>
 
 <div id="soscial-media" align="center">
@@ -80,15 +80,6 @@
   <br>
 </div>
 
-<div id="herokuapp" align="center">
-  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=ocean-gradient&border_radius=20&locale=ja&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
-</div>
-
-<div id="herokuapp" align="center">
+<div id="herokuapp" align="y-center">
   <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&show_icons=true&theme=codeSTACKr&bg_color=30,0495E9,61C1D1&border_radius=20&rank_icon=github"  height="165px">
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/81/6b/f0/816bf03234d66f330997c0283d03f518.gif" height="165px">
-  <img src="https://i.pinimg.com/originals/d4/cd/f3/d4cdf31724cdc74aa5dbd2169fbdd4b6.gif" height="165px">
 </div>
