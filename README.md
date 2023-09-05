@@ -80,10 +80,12 @@
   <br>
 </div>
 
-<div id="herokuapp" align="y-center">
-  
+<div id="herokuapp" align="center">
   <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=ocean-gradient&border_radius=20&locale=ja&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
-  <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFiasyam&layout=compact&theme=dark&background=000000](https://github.com/anuraghazra/github-readme-stats)"  height="165px">
+</div>
+
+<div id="herokuapp" align="center">
+  <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&show_icons=true&theme=codeSTACKr&bg_color=30,0495E9,61C1D1&border_radius=20&rank_icon=github"  height="165px">
 </div>
 
 <div align="center">
