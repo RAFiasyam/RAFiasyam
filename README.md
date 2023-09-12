@@ -18,7 +18,6 @@
 
 <div id="salam" align="center" display="flex" flex-decoration="flex-row">
   <h2>Welcome </h2> 
-  <p>A programmer who does not only write code, but also writes solutions.</p>
 </div>
 
 <div id="About" >
