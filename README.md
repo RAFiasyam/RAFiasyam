@@ -77,6 +77,7 @@
 <summary>Click for :fire: My Stats :</summary>
 <div id="herokuapp" align="center">
   <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&show_icons=true&theme=codeSTACKr&bg_color=30,0495E9,61C1D1&border_radius=20&rank_icon=github"  height="165px">
+  <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFiasyam&hide_progress=true&theme=codeSTACKr&bg_color=30,0495E9,61C1D1&border_radius=20"  height="165px">
 </div>
 </details>
 
