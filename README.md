@@ -13,11 +13,14 @@
 
 <div id="Viewrs" align="center">
   <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=blue" alt="Profile Views"/>
+  <a
+href="https://stackoverflow.com/users/17773876/ri-yms" target="_blank"><img alt="StackOverflow user information"
+src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/17773876" ></a>
 </div>
 
 
 <div id="salam" align="center" display="flex" flex-decoration="flex-row">
-  <h2>Welcome </h2> 
+  <h2 text-align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=~%3C(Welcome+Temen-Temen)%3E~"/></h2> 
 </div>
 
 <div id="About" >
