@@ -21,8 +21,8 @@
 </div>
 
 <div id="About" >
-  :man_technologist: About Me :
-  - ✍: I'm a Software Engineer.
+  👋 Me :
+   a Software Engineer.
   <br>
   <br>
 </div>
