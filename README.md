@@ -21,18 +21,17 @@
   <p>A programmer who does not only write code, but also writes solutions.</p>
 </div>
 
-<div id="About">
+<div id="About" >
   :man_technologist: About Me :
-  - ✍: Kwuik, I'm a Software Engineer.
-
-  - 💪 Working.
-
-  - :zap: Gogogo.
-
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-asyam-a5bb98289/)
+  - ✍: I'm a Software Engineer.
+  <br>
+  <br>
 </div>
 
-<div id="tools">
+
+<details>
+<summary>Click for 🛠️ Languages :</summary>
+  <div id="tools">
   :wrench: Languages :
   <br>
   <br>
@@ -73,13 +72,20 @@
   <br>
   <br>
 </div>
+</details>
 
-<div id="status">
-  :fire: My Stats :
-  <br>
-  <br>
-</div>
-
-<div id="herokuapp" align="y-center">
+<details>
+<summary>Click for :fire: My Stats :</summary>
+<div id="herokuapp" align="center">
   <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&show_icons=true&theme=codeSTACKr&bg_color=30,0495E9,61C1D1&border_radius=20&rank_icon=github"  height="165px">
 </div>
+</details>
+
+
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://stackoverflow.com/users/17773876/ri-yms"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%30Overflow-FE7A16?&style=for-the-badge&logo=Stack-Overflow&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rafi.asyam23@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
