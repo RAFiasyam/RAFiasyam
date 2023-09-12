@@ -32,7 +32,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/17773876" >
 
 
 <details>
-<summary>Click for 🛠️ Languages :</summary>
+<summary>Click for 🛠️ Languages & Tools :</summary>
   <div id="tools">
   :wrench: Languages :
   <br>
