@@ -25,7 +25,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/17773876" >
 
 <div id="About" >
   👋 Me :
-   a Software Engineer.
+   Frontend Developer.
   <br>
   <br>
 </div>
