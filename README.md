@@ -13,9 +13,6 @@
 
 <div id="Viewrs" align="center">
   <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=blue" alt="Profile Views"/>
-  <a
-href="https://stackoverflow.com/users/17773876/ri-yms" target="_blank"><img alt="StackOverflow user information"
-src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/17773876" ></a>
 </div>
 
 
