@@ -81,6 +81,13 @@
 </div>
 </details>
 
+<details>   
+  <summary></summary>
+  <img src="https://i.pinimg.com/originals/fa/70/25/fa7025bc16b1c6a6043a53f54b4b455c.gif" width="200px">
+  <img src="https://i.pinimg.com/originals/c1/54/c6/c154c6c45771e67b34dbcc7523f60b26.gif" width="200px">
+  <img src="https://i.pinimg.com/originals/c1/54/c6/c154c6c45771e67b34dbcc7523f60b26.gif" width="200px">
+</details>
+
 
 
 <h2  align="center">📫 Reach me on</h2>
