@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=ocean-gradient&border_radius=20&locale=ja&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
+  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=ocean-gradient&border_radius=20&locale=en&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
 </div>
 
 <div id="soscial-media" align="center">
