@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=great-gatsby&hide_border=true&mode=weekly">
+  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=react&hide_border=true&mode=weekly">
 </div>
 
 <div id="soscial-media" align="center">
