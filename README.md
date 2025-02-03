@@ -2,7 +2,7 @@
 
 <div id="salam" align="center" display="flex" flex-decoration="flex-row">
   <h2 text-align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=~%3C(Welcome+Temen-Temen)%3E~"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Hey!+I'm+Rafi%2C;a+dreamer+turned+coder+%F0%9F%8C%B1%F0%9F%92%BB+"/>
   </h2> 
 </div>
 
