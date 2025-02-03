@@ -15,8 +15,6 @@
   <br>
 </div>
 
-<details>
-<summary>Click for 🛠️ Languages & Tools :</summary>
   <div id="tools">
   :wrench: Languages :
   <br>
@@ -24,13 +22,9 @@
 </div>
 
 <div id="tools-icon">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" title"Laravel" alt"Laravel" width="40" height="40">&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="40" height="40" >&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" >&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="40" height="40" >&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="40" height="40" >&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="PHP" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="40" height="40" >&nbsp;
@@ -58,7 +52,6 @@
   <br>
   <br>
 </div>
-</details>
 
 <div id="herokuapp" align="center">
   <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=react&hide_border=true&mode=weekly&background=00000000">
