@@ -61,8 +61,8 @@
 </details>
 
 <div id="herokuapp" align="center">
-  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=react&hide_border=true&mode=weekly">
-  <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&theme=react&hide_border=true&rank_icon=github"  height="165px">
+  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=react&hide_border=true&mode=weekly&background=00000000">
+  <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&theme=react&hide_border=true&rank_icon=github&bg_color=00000000"  height="165px">
 </div>
 
 <h2  align="center">📫 Reach me on</h2>
