@@ -1,7 +1,7 @@
 
 
-<div id="salam" align="center" display="flex" flex-decoration="flex-row">
-  <h2 text-align="center">
+<div id="salam" align="start" display="flex" flex-decoration="flex-row">
+  <h2 text-align="start">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Hey!+I'm+Rafi%2C;a+dreamer+turned+coder+%F0%9F%8C%B1%F0%9F%92%BB+"/>
   </h2> 
 </div>
@@ -11,9 +11,9 @@
    Frontend Developer.
   <br>
   <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://wakatime.com/badge/user/0aeac92c-f18d-4daf-bc16-7879019c83d6.svg" alt="Profile Views"/>
   <br>
 </div>
-
 
 <details>
 <summary>Click for 🛠️ Languages & Tools :</summary>
