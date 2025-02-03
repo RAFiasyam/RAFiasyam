@@ -24,7 +24,7 @@
 
 <div id="tools-icon">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" title="Lua" alt="Lua" width="40" height="40">&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40" >&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="40" height="40" >&nbsp;
