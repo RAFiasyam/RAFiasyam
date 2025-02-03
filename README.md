@@ -1,29 +1,16 @@
-<div id="header" align="center">
-  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=react&hide_border=true&mode=weekly">
-</div>
-
-<div id="soscial-media" align="center">
-  <a href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=20" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&border_radius=20" alt="Youtube Badge"/>
-  </a>
-</div>
-
-<div id="Viewrs" align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
 
 
 <div id="salam" align="center" display="flex" flex-decoration="flex-row">
-  <h2 text-align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=~%3C(Welcome+Temen-Temen)%3E~"/></h2> 
+  <h2 text-align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=~%3C(Welcome+Temen-Temen)%3E~"/>
+  </h2> 
 </div>
 
 <div id="About" >
   👋 Me :
    Frontend Developer.
   <br>
+  <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=blue" alt="Profile Views"/>
   <br>
 </div>
 
@@ -73,26 +60,17 @@
 </div>
 </details>
 
-<details>
-<summary>Click for :fire: My Stats :</summary>
 <div id="herokuapp" align="center">
-  <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&show_icons=true&theme=codeSTACKr&bg_color=30,0495E9,61C1D1&border_radius=20&rank_icon=github"  height="165px">
-  <img id="varcel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFiasyam&hide_progress=true&theme=codeSTACKr&bg_color=30,0495E9,61C1D1&border_radius=20"  height="165px">
+  <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&theme=react&hide_border=true&rank_icon=github"  height="165px">
+  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=react&hide_border=true&mode=weekly">
 </div>
-</details>
-
-<details>   
-  <summary></summary>
-  <img src="https://i.pinimg.com/originals/a9/a6/0e/a9a60ea0383b96536210e0d6af494c50.gif" width="200px">
-  <img src="https://i.pinimg.com/originals/a9/a6/0e/a9a60ea0383b96536210e0d6af494c50.gif" width="200px">
-  <img src="https://i.pinimg.com/originals/a9/a6/0e/a9a60ea0383b96536210e0d6af494c50.gif" width="200px">
-</details>
-
-
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://stackoverflow.com/users/17773876/ri-yms"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%30Overflow-FE7A16?&style=for-the-badge&logo=Stack-Overflow&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:rafi.asyam23@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+   <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&border_radius=20" alt="Youtube Badge"/>
+  </a>
 </p>
