@@ -64,7 +64,7 @@
   <a target="_blank"href="https://www.linkedin.com/in/rafi-asyam-a5bb98289/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://stackoverflow.com/users/17773876/ri-yms"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%30Overflow-FE7A16?&style=for-the-badge&logo=Stack-Overflow&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:rafi.asyam23@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-   <a href="your-youtube-URL">
+   <a href="https://www.youtube.com/@Taka666-o2k/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&border_radius=20" alt="Youtube Badge"/>
   </a>
 </p>
