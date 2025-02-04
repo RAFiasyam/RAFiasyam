@@ -10,7 +10,7 @@
   👋 Me : Web Developer.
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=RAFiasyam&style=flat-square&color=orange" alt="Profile Views"/>
   <img src="https://wakatime.com/badge/user/0aeac92c-f18d-4daf-bc16-7879019c83d6.svg" alt="Profile Views"/>
   <br>
   <br>
@@ -55,7 +55,7 @@
 </div>
 
 <div id="herokuapp" align="start">
-  <img src="https://streak-stats.demolab.com?user=RAFiasyam&theme=react&hide_border=true&mode=weekly&background=00000000">
+  <img src="https://streak-stats.demolab.com/?user=RAFiasyam&theme=react&hide_border=true&mode=weekly&background=00000000">
   <img id="varcel" src="https://github-readme-stats.vercel.app/api?username=RAFiasyam&theme=react&hide_border=true&rank_icon=github&bg_color=00000000"  height="165px">
 </div>
 
